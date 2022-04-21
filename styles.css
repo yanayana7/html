@@ -1,0 +1,22 @@
+img {
+	width:700;
+	border:2px solid white;
+	
+}
+
+body {
+background-color: black;	
+	
+}
+
+div { 
+
+color: green;
+
+} 
+
+.red {
+ 	color:blue;
+	font-size: 32px;
+
+}
