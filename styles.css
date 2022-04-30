@@ -1,0 +1,64 @@
+
+	
+	img{
+		  display:block;
+          margin-right: auto;
+          margin-left: auto;
+		  border: 2PX solid black;
+	}
+	
+
+	
+	head{
+		
+	
+}
+
+	h1 {
+		
+	 text-align: center; color: #white; font-family: "Great Vibes", cursive; font-size: 45px; font-weight: normal; line-height: 48px; margin: 0; 
+	
+}
+
+
+
+h2 {
+	
+  text-align: center; color: #7FFFD4; font-family: 'Source Sans Pro', sans-serif; font-size: 20px; font-weight: bold; line-height: 32px; margin: 0;
+   
+} 
+
+
+p { 
+
+    text-align: center; color: #FFEBCD; font-family: 'Source Sans Pro', sans-serif; font-size: 18px; line-height: 32px; margin: 0 0;
+ }
+
+h3 {
+	
+	   text-align: left; color: white; font-family: "Great Vibes", cursive; font-size: 24px; line-height: 32px; font-weight: normal; margin-bottom: 0px; margin-top: 40px; text-shadow: 0 1px 1px #fff; margin: 0  0;
+	
+	
+}
+
+ul {
+	
+ text-align: left; color: #FFEBCD; font-family: 'Source Sans Pro', sans-serif; font-size: 18px; line-height: 32px; margin: 0 0;	
+}
+
+h4 {
+	
+	 color: #ECD160; font-family: 'Droid serif', serif; font-size: 36px; font-weight: 400; font-style: italic; line-height: 44px; margin: 0 0 12px; text-align: center;
+}
+
+h5 {
+  color: #ECD160; font-family: 'Droid serif', serif; font-size: 36px; font-weight: 400; font-style: italic; line-height: 44px; margin: 0 0 12px; text-align: center;	
+}
+	
+body {
+	
+background-color:black;
+color:#F8F8FF;
+
+	
+}
